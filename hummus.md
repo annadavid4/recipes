@@ -3,5 +3,7 @@
 -lemon
 -olive oil
 -salt
-#Instructions
--Peel avocados
+# Instructions
+- Peel the avocados
+- Place avocados in a bowl
+
